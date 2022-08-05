@@ -24,5 +24,5 @@ jobs:
           python-version: 3.x
         # 使用pip包管理工具安装mkdocs-material
       - run: pip install mkdocs-material 
-      - # 使用mkdocs-material部署gh-pages分支
+        # 使用mkdocs-material部署gh-pages分支
       - run: mkdocs gh-deploy --force 
