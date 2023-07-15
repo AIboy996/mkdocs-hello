@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# 欢迎使用MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+请访问 [mkdocs.org](https://www.mkdocs.org)查看mkdocs的文档
 
-## Commands
+## 常用命令行
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `mkdocs new [dir-name]` - 创建新项目
+* `mkdocs serve` - 开启一个热更新的服务器
+* `mkdocs build` - 构建网页
+* `mkdocs -h` - 打印帮助信息
 
-## Project layout
+## 项目结构
 
-    mkdocs.yml    # The configuration file.
+    mkdocs.yml    # 配置文件
     docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        index.md  # 网站首页
+        ...       # 其他文档
+
+## 详细教程
+
+[Part1 理论](https://yangzhang.site/Blog/mkdocs/%E7%90%86%E8%AE%BA/)
+
+[Part2 实践](https://yangzhang.site/Blog/mkdocs/%E5%AE%9E%E8%B7%B5/)
