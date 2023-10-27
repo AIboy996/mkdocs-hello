@@ -1,4 +1,4 @@
-# hello
+# Hello
 This is a sentence.
 ## A formula
 $$
